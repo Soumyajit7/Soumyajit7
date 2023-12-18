@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/imsoumyajitpan" target="blank"><img src="https://img.shields.io/twitter/follow/imsoumyajitpan?logo=twitter&style=for-the-badge" alt="imsoumyajitpan" /></a> </p>
 
-- 🔭 I’m currently working on [Automation](https://www.rocket.chat/)
+- 🔭 I’m currently working on [Automation](https://robotframework.org/)
 
 - 🌱 I’m currently learning **Java SpringBoot**
 
@@ -16,13 +16,13 @@
 
 - 🤝 I’m looking for help with [rocket.chat](https://www.rocket.chat/)
 
-- 👨‍💻 All of my projects are available at [https://soumyajitpan.netlify.app/](https://soumyajitpan.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://soumyajitpan.netlify.app/)
 
 - 💬 Ask me about **DSA**
 
 - 📫 How to reach me **soumyajitmahi7@gmail.com**
 
-- 📄 Know about my experiences [https://soumyajitpan.netlify.app/](https://soumyajitpan.netlify.app/)
+- 📄 Know about my experiences [Portfolio](https://soumyajitpan.netlify.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

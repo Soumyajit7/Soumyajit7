@@ -12,9 +12,7 @@
 
 - 🌱 I’m currently learning **Java SpringBoot**
 
-- 👯 I’m looking to collaborate on [rocket.chat](https://www.rocket.chat/)
-
-- 🤝 I’m looking for help with [rocket.chat](https://www.rocket.chat/)
+- 👯 I’m looking to collaborate on [contest on codeforces](https://codeforces.com/contests)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://soumyajitpan.netlify.app/)
 
